@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
-# EventStorming
+# Event Storming Model
 ![image](https://github.com/dalssong/example-food-delivery/assets/126850101/da793c83-ed28-4463-ad45-d08efa57458c)
 
 
