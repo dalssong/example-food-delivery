@@ -1,5 +1,9 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
+# EventStorming
+![image](https://github.com/dalssong/example-food-delivery/assets/126850101/da793c83-ed28-4463-ad45-d08efa57458c)
+
+
 # 예제 - 음식배달
 
 본 예제는 MSA/DDD/Event Storming/EDA 를 포괄하는 분석/설계/구현/운영 전단계를 커버하도록 구성한 예제입니다.
